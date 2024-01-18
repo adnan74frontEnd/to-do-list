@@ -1,0 +1,57 @@
+@font-face {
+    font-family: iranYekan;
+    src: url("../fonts/ttf/Qs_Iranyekan\ bold.ttf") format("truetype"),
+      url("../fonts/woff/Qs_Iranyekan\ bold.woff") format("woff"),
+      url("../fonts/woff2/Qs_Iranyekan\ bold.woff2") format("woff2");
+    font-style: normal;
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: iranYekan;
+    src: url("../fonts/ttf/Qs_Iranyekan\ medium.ttf") format("truetype"),
+      url("../fonts/woff/Qs_Iranyekan\ medium.woff") format("woff"),
+      url("../fonts/woff2/Qs_Iranyekan\ medium.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: iranYekan;
+    src: url("../fonts/ttf/Qs_Iranyekan\ extrabold.ttf") format("truetype"),
+      url("../fonts/woff/Qs_Iranyekan\ extrabold.woff") format("woff"),
+      url("../fonts/woff2/Qs_Iranyekan\ extrabold.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 800;
+  }
+  @font-face {
+    font-family: iranYekan;
+    src: url("../fonts/ttf/Qs_Iranyekan\ black.ttf") format("truetype"),
+      url("../fonts/woff/Qs_Iranyekan\ black.woff") format("woff"),
+      url("../fonts/woff2/Qs_Iranyekan\ black.woff2") format("woff2");
+    font-style: normal;
+    font-weight:850;
+  }
+  @font-face {
+    font-family: iranYekan;
+    src: url("../fonts/ttf/Qs_Iranyekan\ extrablack.ttf") format("truetype"),
+      url("../fonts/woff/Qs_Iranyekan\ extrablack.woff") format("woff"),
+      url("../fonts/woff2/Qs_Iranyekan\ extrablack.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 900;
+  }
+  @font-face {
+    font-family: iranYekan;
+    src: url("../fonts/ttf/Qs_Iranyekan\ light.ttf") format("truetype"),
+      url("../fonts/woff/Qs_Iranyekan\ light.woff") format("woff"),
+      url("../fonts/woff2/Qs_Iranyekan\ light.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 300;
+  }
+  @font-face {
+    font-family: iranYekan;
+    src: url("../fonts/ttf/Qs_Iranyekan\ thin.ttf") format("truetype"),
+      url("../fonts/woff/Qs_Iranyekan\ thin.woff") format("woff"),
+      url("../fonts/woff2/Qs_Iranyekan\ thin.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 200;
+  }
+
