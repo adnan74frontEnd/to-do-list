@@ -56,12 +56,14 @@ function createTodos(todos) {
    }>${todo.title}</p>
    <div class="todo-item-justify">
    <span class="todo-item-date">${new Date().toLocaleDateString("en-UK")}</span>
+   <div class="todo-item-controllers">
    <button class="todo-item-tik" data-todo-id=${
      todo.id
    }><i class="fa-solid fa-check"></i></button>
-   <button class="todo-item-remove" data-todo-id=${
-     todo.id
-   }><i class="fa fa-trash"></i></button>
+  <button class="todo-item-remove" data-todo-id=${
+    todo.id
+  }><i class="fa fa-trash"></i></button>
+   </div>
    </div>
    </li>
     `;
@@ -103,4 +105,4 @@ function saveTodo(todo) {
 function saveAllTodos(todos) {
   localStorage.setItem("todos", JSON.stringify(todos));
 }
-crea
+crea;
